@@ -18,7 +18,6 @@
 - 💻 **3+ years** building production web apps with React, Next.js, TypeScript and Angular
 - 🤖 Moving deeper into **applied ML**: reinforcement learning, recommender systems, computer vision, LLM agents
 - 🌍 Interested in how AI systems affect the people who use them, and in building tech that is fair by design
-- 🌊 Incoming intern at **TNO**, working on O&M systems for offshore wind
 
 ---
 
